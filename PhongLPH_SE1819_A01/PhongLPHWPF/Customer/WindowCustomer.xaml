@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PhongLPHWPF.Customer"
         mc:Ignorable="d"
-        Title="WindowCustomer" Height="550" Width="800">
+        Title="WindowCustomer" Height="550" Width="800"
+        WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition />
@@ -38,8 +39,8 @@
 
                 <LinearGradientBrush EndPoint="0.5,1"
                                      StartPoint="0.5,0">
-                    <GradientStop Color="#FF34CB7B" />
-                    <GradientStop Color="#FFB5F9C9"
+                    <GradientStop Color="#adffb7" />
+                    <GradientStop Color="#ffe066"
                                   Offset="1" />
                 </LinearGradientBrush>
             </Frame.Background>

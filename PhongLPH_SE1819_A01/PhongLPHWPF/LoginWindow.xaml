@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="FU Mini Hotel Login"
         Height="250"
-        Width="400">
+        Width="400"
+        WindowStartupLocation="CenterScreen">
     <Grid>
         <Border>
             <Border.BorderBrush>
